@@ -4,7 +4,7 @@
 
 **Technical product leader. I build AI products that ship, and product organisations that keep shipping.**
 
-Machine learning products in production since 2017, long before there was a chatbot to demo: computer vision at LEGO scale, Bloomberg's most-used custom GPT, forecasting algorithms, single customer views, and the product organisations, Product Ops and people underneath them. Fellow of BCS, The Chartered Institute for IT, and an elected member of BCS Council. Oxford Saïd AI Programme. MBA.
+Machine learning products in production since 2017, long before there was a chatbot to demo: computer vision at LEGO scale, part of the team behind Bloomberg's most-used custom GPT, Iris, a custom GPT for bereaved military families, forecasting algorithms, single customer views, and the product organisations, Product Ops and people underneath them. Fellow of BCS, The Chartered Institute for IT, and an elected member of BCS Council. Oxford Saïd AI Programme. MBA.
 
 ## What's here
 
