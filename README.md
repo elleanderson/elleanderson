@@ -2,28 +2,26 @@
 
 # Elle Anderson
 
-**Technical product leader. I build AI products that ship, and product organisations that keep shipping.**
+I lead global multidisciplinary product teams to create astonishing, award-winning digital products. Providing board services, product and company strategy and growth consulting for enterprise businesses, startups and government. I am a committed scientist and skilled facilitator serving inherently talented people who are sincerely smarter than I am.
 
-Machine learning products in production since 2017, long before there was a chatbot to demo: computer vision at LEGO scale, part of the team behind Bloomberg's most-used custom GPT, Iris, a custom GPT for bereaved military families, forecasting algorithms, single customer views, and the product organisations, Product Ops and people underneath them. Fellow of BCS, The Chartered Institute for IT, and an elected member of BCS Council. Oxford Saïd AI Programme. MBA.
+Twenty years in product, including LEGO, Bloomberg, Kraft Heinz, Tesco Bank, Bupa, GSK, Lloyds, Capital One and Domino's. Machine learning products in production since 2017. MBA. Oxford Saïd AI Programme. Fellow of BCS, The Chartered Institute for IT. Center for Executive Coaching and ICF leadership coach. A UK Armed Forces spouse.
+
+Everything here was designed and built by me with Claude as a collaborator. It is open on purpose: the repositories are the evidence behind the words "AI native".
 
 ## What's here
 
-| Repo | What it is |
+| Repository | What it is |
 |---|---|
-| [product-leader-skills](https://github.com/elleanderson/product-leader-skills) | Six of my working methods as installable skills for Claude Code, Cursor, Codex, Copilot and friends. `npx skills add https://github.com/elleanderson/product-leader-skills` |
-| [product-capability-compass](https://github.com/elleanderson/product-capability-compass) | A private, in-browser read across eight product capabilities. [Open it](https://elleanderson.github.io/product-capability-compass/) |
-| [elleanderson.github.io](https://github.com/elleanderson/elleanderson.github.io) | [andersonco.uk](https://andersonco.uk), designed and built by me, with Claude. The build log is [here](https://andersonco.uk/how-this-site-is-built.html). |
+| [new-leaf](https://github.com/elleanderson/new-leaf) | A free, private vibe coaching tool for job seekers, built with the Armed Forces community in mind and open to anyone with a non-traditional career story. Story builder, embedded coach, printable PDF, and the product artefacts behind it. [Open it](https://andersonco.uk/newleaf) |
+| [product-leader-skills](https://github.com/elleanderson/product-leader-skills) | Six of my working methods as installable skills for AI coding agents. `npx skills add https://github.com/elleanderson/product-leader-skills` |
+| [product-capability-compass](https://github.com/elleanderson/product-capability-compass) | A private, in-browser self-assessment across eight product capabilities. [Open it](https://elleanderson.github.io/product-capability-compass/) |
+| [ai-product-practice](https://github.com/elleanderson/ai-product-practice) | My working AI practice for product teams: prompt patterns, capability assessments and build guides. |
+| [elleanderson.github.io](https://github.com/elleanderson/elleanderson.github.io) | [andersonco.uk](https://andersonco.uk), and [how it was made](https://andersonco.uk/built-with-ai). |
 
-## Five positions on AI
+## On the site
 
-1. The model is an ingredient. The product is the failure state, the confidence threshold and the moment after.
-2. Trust is a metric you design for, not one you hope for.
-3. Distribution eats more time than data science.
-4. AI changes the operating model before it changes the org chart.
-5. If it would not survive being unfashionable, it will not survive being fashionable.
+[Services](https://andersonco.uk/services) · [Portfolio](https://andersonco.uk/portfolio) · [Field Notes](https://andersonco.uk/field-notes) · [Free tools](https://andersonco.uk/tools) · [My Toolkit](https://andersonco.uk/my-toolkit) · [Executive coaching](https://andersonco.uk/coaching) · [Giving Back](https://andersonco.uk/giving-back)
 
-The receipts are at [andersonco.uk/ai](https://andersonco.uk/ai.html). The writing is in the [Field Notes](https://andersonco.uk/field-notes.html). The free tools, including the AI Feature Readiness Check and the Product Ops Health Check, are on the [Free tools](https://andersonco.uk/free-tools.html) shelf.
+## Elsewhere
 
-## Work with me
-
-Product organisation design, Product Ops, AI transformation of the product organisation, acquisition readiness and due diligence, and coaching and training through The Anderson MTHD. [How I can help](https://andersonco.uk/work-with-me.html) · [Leadership record](https://andersonco.uk/leadership.html) · [LinkedIn](https://www.linkedin.com/in/andersonelle)
+[andersonco.uk](https://andersonco.uk) · [LinkedIn](https://www.linkedin.com/in/andersonelle)
