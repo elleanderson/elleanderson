@@ -42,7 +42,9 @@ Everything here was designed and built by me with Claude as a collaborator. It i
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-12332E?style=flat-square&logo=githubactions&logoColor=CFB36A)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-12332E?style=flat-square&logo=cloudflareworkers&logoColor=CFB36A)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-12332E?style=flat-square&logo=cloudflarepages&logoColor=CFB36A)
+![JSON Schema](https://img.shields.io/badge/JSON%20Schema-12332E?style=flat-square&logo=json&logoColor=CFB36A)
 ![Schema.org](https://img.shields.io/badge/Schema.org%20JSON--LD-12332E?style=flat-square&logo=json&logoColor=CFB36A)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-12332E?style=flat-square&logo=githubpages&logoColor=CFB36A)
 ![Claude](https://img.shields.io/badge/Claude-12332E?style=flat-square&logo=anthropic&logoColor=CFB36A)
 
 ## Featured Work
@@ -51,6 +53,9 @@ Everything here was designed and built by me with Claude as a collaborator. It i
 |---|---|---|
 | [ai-coach-evals](https://github.com/elleanderson/ai-coach-evals) | A readable eval kit for AI coaches. Plain-English promises, realistic conversations and automated checks, run against my live New Leaf coach on every change. | Python, pytest, YAML, GitHub Actions |
 | [ai-feature-health-dashboard](https://github.com/elleanderson/ai-feature-health-dashboard) | One page that tells leaders whether a live AI feature is affordable, fast, good and safe, with a routing cost model, drift alerts and human review. [Open it](https://elleanderson.github.io/ai-feature-health-dashboard/) | TypeScript, SCSS, Chart.js, Vite |
+| [uk-copy-checker](https://github.com/elleanderson/uk-copy-checker) | A house style checker for UK English that catches em dashes, Oxford commas, stranded prepositions, US spellings and AI-sounding phrases. Use it in the terminal or as a GitHub Action. | Python, GitHub Actions |
+| [ai-use-case-register](https://github.com/elleanderson/ai-use-case-register) | A version-controlled register for every AI use case in an organisation, with an indicative EU AI Act triage, governance gap checks and a [published report](https://elleanderson.github.io/ai-use-case-register/). | Python, JSON Schema, YAML |
+| [awesome-ai-product-leadership](https://github.com/elleanderson/awesome-ai-product-leadership) | A short, curated list of the resources I recommend to product leaders bringing AI into their products and teams. | Markdown, link checking |
 | [New Leaf](https://andersonco.uk/newleaf) | A free, private vibe coaching tool for job seekers, built with the Armed Forces community in mind and open to anyone with a non-traditional career story. Story builder, embedded coach and printable PDF. [Open it](https://andersonco.uk/newleaf) | JavaScript, Cloudflare Workers |
 | [product-leadership-toolkit](https://github.com/elleanderson/-product-leadership-toolkit) | Twenty-one free, print-ready tools for product leaders, coaches and job seekers: health checks, strategy and discovery templates, AI guides, The Next Chapter Canvas and interview guides. CC BY-NC-ND 4.0. | PDF, Markdown |
 | [product-leader-skills](https://github.com/elleanderson/product-leader-skills) | Six of my working methods as installable skills for AI coding agents. `npx skills add https://github.com/elleanderson/product-leader-skills` | Agent Skills, Markdown |
